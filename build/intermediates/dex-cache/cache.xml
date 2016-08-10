@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/l33t/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.0.1_5048909e52bb81f9fd42dcd462bdf4317a0c3104/classes.dex" />
+    </item>
+    <item
+        jar="/home/l33t/.gradle/caches/modules-2/files-2.1/org.java-websocket/Java-WebSocket/1.3.0/db2658f013fb163de4a99274c2eb9e17efe535d2/Java-WebSocket-1.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/Java-WebSocket-1.3.0_5d38134fdbe9fe029ff9ba58f1f620fd8bcc22df/classes.dex" />
+    </item>
+    <item
+        jar="/home/l33t/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/0.7.0/ce278c97bc9f74c7945d647f6d441d6013163362/socket.io-client-0.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ce278c97bc9f74c7945d647f6d441d6013163362">
+        <dex dex="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/socket.io-client-0.7.0_52877dfca840aa909ea7f48de578488d2e638c83/classes.dex" />
+    </item>
+    <item
+        jar="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_af5c8f6ec3e71d4d057bc5e34268e669240ee044/classes.dex" />
+    </item>
+    <item
+        jar="/home/l33t/.gradle/caches/modules-2/files-2.1/io.socket/engine.io-client/0.7.0/c1b1d30e2d2231b2eae1438a44943a409b976dac/engine.io-client-0.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c1b1d30e2d2231b2eae1438a44943a409b976dac">
+        <dex dex="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/engine.io-client-0.7.0_22f8a91740964c279f5793aba6a27da5d156e6d0/classes.dex" />
+    </item>
+    <item
+        jar="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_d6cb6624bfe1de34e5ca2058a50a6eadccb238b2/classes.dex" />
+    </item>
+    <item
+        jar="/home/l33t/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_59c6830b261d7e7f903c26c1e278094af286b92a/classes.dex" />
+    </item>
+    <item
+        jar="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_e67e647e2fab267c76eb673cba73cc6f32e861c3/classes.dex" />
+    </item>
+    <item
+        jar="/home/l33t/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_4fe4ba809c52d50850ef083527f0c2c3f7614ab2/classes.dex" />
+    </item>
+    <item
+        jar="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="70301c732b2ff859865d85bfc9c057d9f36d6d14">
+        <dex dex="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_44dba87106cf904501680d539968174856f2320a/classes.dex" />
+    </item>
+    <item
+        jar="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_3c8d0ed4e4053fef4f0ae861b91eb5b909de2340/classes.dex" />
+    </item>
+    <item
+        jar="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_b574f6a097a41ebf3ffb52ce80d2e6c5da021453/classes.dex" />
+    </item>
+    <item
+        jar="/home/l33t/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.0.1/bd9b51a0188fc8f14bf840a0d326755545206116/okhttp-ws-3.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bd9b51a0188fc8f14bf840a0d326755545206116">
+        <dex dex="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-3.0.1_2763b9e0b486cc88e1c5961d4443ddb34c77a9b5/classes.dex" />
+    </item>
+    <item
+        jar="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1bbcd89209d6a0bae9c6636e0fbd2bf80a18a8e1">
+        <dex dex="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_77ca9325a8232c37fce244ba30fce8569fdfdf95/classes.dex" />
+    </item>
+    <item
+        jar="/home/l33t/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/socket.io-client/0.3.0/8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9/socket.io-client-0.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9">
+        <dex dex="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/socket.io-client-0.3.0_febf61ded1d7102cd1876e9f1d07933d04bc9d47/classes.dex" />
+    </item>
+    <item
+        jar="/home/l33t/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.3.1/3ca9d0d53a27ecb88538ed874be417cfa827db5d/engine.io-client-0.3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3ca9d0d53a27ecb88538ed874be417cfa827db5d">
+        <dex dex="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/engine.io-client-0.3.1_3f85d5d7936294f1ec235fb219fbf5331564e1d5/classes.dex" />
+    </item>
+    <item
+        jar="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/l33t/Documents/College Files/6th Semester/Minor Project/medical-diagnosis-system/medical-diagnosis-system/medical-diagnosis-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_8304305ac892ff05955df6f09b6d9572993abefc/classes.dex" />
+    </item>
+
+</items>
